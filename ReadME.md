@@ -326,6 +326,4 @@ for sample in X_test:
 Thus, the quadratic polynomial model models the data much more accurately.
 
 
-```python
-
-```
+<b>Note:</b> This is just a toy project to play with scikit-learn algorithms. Thus, I have not implemented cross-validation error, regularization etc.
