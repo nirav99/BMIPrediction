@@ -1,5 +1,12 @@
+BMIPrediction
+=============
 
-This is a simple project to study prediction of BMI values using the sklearn in-built algorithms.
+The problem
+-----------
+This is a simple project to study prediction of BMI values using the sklearn in-built algorithms. 
+Given height in pounds and weight in inches, the task is to predict BMI.
+
+The formula for BMI is weight / (height * height) * 703.
 
 
 ```python
