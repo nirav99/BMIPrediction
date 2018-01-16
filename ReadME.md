@@ -158,7 +158,6 @@ bmi_data.describe()
 
 
 
-
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -187,6 +186,8 @@ print("Shape of Y is : "  + str(Y.shape))
     Shape of Y is : (200, 1)
 
 
+Visualizing the data
+--------------------
 
 ```python
 # Plot the data on a 3D surface
@@ -212,7 +213,8 @@ ax.set_zlabel('BMI')
 
 
 ![png](output_5_1.png)
-
+![png](output_6_1.png)
+![png](output_7_1.png)
 
 
 ```python
